@@ -16,11 +16,13 @@ Problem Statement/Opportunity : Viticulture is an agricultural activity that is 
 
 Project Description : Quality food will give the Best helth Results.
 
-Primary Azure Technology : Static Web Apps, App Service
+Primary Azure Technology : Static Web Apps, Azure Health bot and App Service.
 
 Static Web App URL : https://lemon-dune-0d30e1a00.2.azurestaticapps.net
 
 App Services URL : https://lemon-dune-0d30e1a00.2.azurestaticapps.net/bot.html
+
+APP service URL: https://viticulture.azurewebsites.net/
 
 ## MY WEBSITE LINK IS : https://lemon-dune-0d30e1a00.2.azurestaticapps.net
 ## HOME
