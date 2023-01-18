@@ -16,7 +16,7 @@ Problem Statement/Opportunity : Viticulture is an agricultural activity that is 
 
 Project Description : Quality food will give the Best helth Results.
 
-Primary Azure Technology : Static Web Apps, Azure Health bot and App Service.
+Primary Azure Technology : Static Web Apps, Azure Health bot, App Service.
 ..............................................................................................................................................................
 
 1,Static Web App URL : https://lemon-dune-0d30e1a00.2.azurestaticapps.net
@@ -24,9 +24,11 @@ Primary Azure Technology : Static Web Apps, Azure Health bot and App Service.
 2,App Services URL : https://lemon-dune-0d30e1a00.2.azurestaticapps.net/bot.html
 
 3,APP service URL: https://viticulture.azurewebsites.net/
+
 .............................................................................................................................................................
 
 Project demo video URL: 
+
 
 ## MY WEBSITE LINK IS : https://lemon-dune-0d30e1a00.2.azurestaticapps.net
 ## HOME
@@ -53,6 +55,7 @@ Project demo video URL:
 ##  HOME/short codes
 
 
+<img width="1068" alt="ab mail1" src="https://user-images.githubusercontent.com/118153981/213189324-37a74cb1-a455-45c5-ade9-b68e5a8865ff.png">
 <img width="1065" alt="ab short1" src="https://user-images.githubusercontent.com/118153981/209985768-a79bbcf9-5575-41f5-b819-09f2d6c8b68c.png">
 <img width="1061" alt="ab short2" src="https://user-images.githubusercontent.com/118153981/209985793-84de9127-05ab-4daa-bfb8-546845f2899e.png">
 <img width="1067" alt="ab short3" src="https://user-images.githubusercontent.com/118153981/209985803-6bc5d107-5ba9-4267-b0d4-1eb945db4780.png">
@@ -68,7 +71,7 @@ Project demo video URL:
 <img width="1079" alt="ab bot1" src="https://user-images.githubusercontent.com/118153981/209986008-1e6fca14-d9d8-4cc6-95c8-f14886ce0f97.png">
 <img width="1076" alt="ab bot2" src="https://user-images.githubusercontent.com/118153981/209986016-6205a863-a085-43a0-a14f-4c114b0c9b62.png">
 
-## zure resources
+## Zure resources
 
 <img width="1080" alt="ab azure" src="https://user-images.githubusercontent.com/118153981/209986173-55ebb8ec-7530-4603-9e86-991b94fe826d.png">
 
