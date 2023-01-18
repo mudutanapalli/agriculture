@@ -21,7 +21,7 @@ Primary Azure Technology : Static Web Apps, Azure Health bot, App Service.
 
 1,Static Web App URL : https://lemon-dune-0d30e1a00.2.azurestaticapps.net
 
-2,App Services URL : https://lemon-dune-0d30e1a00.2.azurestaticapps.net/bot.html
+2,Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL : https://lemon-dune-0d30e1a00.2.azurestaticapps.net/bot.html
 
 3,APP service URL: https://viticulture.azurewebsites.net/
 
