@@ -59,13 +59,13 @@ Project demo video URL: https://drive.google.com/drive/folders/1Ox0cz-me1oLWx9YM
 ##  HOME/short codes
 
 
-<img width="1068" alt="ab mail1" src="https://user-images.githubusercontent.com/118153981/213189324-37a74cb1-a455-45c5-ade9-b68e5a8865ff.png">
+
 <img width="1065" alt="ab short1" src="https://user-images.githubusercontent.com/118153981/209985768-a79bbcf9-5575-41f5-b819-09f2d6c8b68c.png">
 <img width="1061" alt="ab short2" src="https://user-images.githubusercontent.com/118153981/209985793-84de9127-05ab-4daa-bfb8-546845f2899e.png">
 <img width="1067" alt="ab short3" src="https://user-images.githubusercontent.com/118153981/209985803-6bc5d107-5ba9-4267-b0d4-1eb945db4780.png">
 
 ##  HOME/mail us 
-
+<img width="1068" alt="ab mail1" src="https://user-images.githubusercontent.com/118153981/213189324-37a74cb1-a455-45c5-ade9-b68e5a8865ff.png">
 <img width="1068" alt="ab shortcode2" src="https://user-images.githubusercontent.com/118153981/209985958-025da544-0a74-4fc4-a75d-1b9018e84cb2.png">
 <img width="1068" alt="ab shortcode3" src="https://user-images.githubusercontent.com/118153981/209985971-664201ae-27f1-423d-a815-63e094c8fadc.png">
 
