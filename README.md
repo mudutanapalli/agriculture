@@ -8,7 +8,7 @@ Web Technologies used: HTML, CSS, JS.
 
 IDE: VS-Code
 
-Industry : Earth
+Industry : Lifestyle
 
 Project Title : viticulture
 
