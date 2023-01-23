@@ -40,7 +40,7 @@ Project demo video URL: https://drive.google.com/drive/folders/1Ox0cz-me1oLWx9YM
 <img width="1069" alt="ab home4" src="https://user-images.githubusercontent.com/118153981/209985513-21bde536-a76a-4f3b-8099-57f45e279903.png">
 
 
-##  HOME/seervice
+##  HOME/service
 
 
 <img width="1068" alt="ab service1" src="https://user-images.githubusercontent.com/118153981/209985580-1690ad9c-2142-4ea7-aca8-e8a0b1f92999.png">
