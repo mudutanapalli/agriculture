@@ -1,6 +1,8 @@
 # agriculture
+## 😍Viticulture❤️
 ## finalpro:Future Ready Talent Project By Mudutanapalli Abhishikth
 ## Agriculture Website
+
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
@@ -10,7 +12,7 @@ IDE: VS-Code
 
 Industry : Lifestyle
 
-Project Title : viticulture
+Project Title : Viticulture
 
 Problem Statement/Opportunity : Viticulture is an agricultural activity that is typically more profitable per area than annual crops.
 
