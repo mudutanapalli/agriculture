@@ -33,11 +33,14 @@ Project demo video URL: https://drive.google.com/drive/folders/1Ox0cz-me1oLWx9YM
 ## MY WEBSITE LINK IS : https://lemon-dune-0d30e1a00.2.azurestaticapps.net
 ## HOME
 
+<img width="1067" alt="ab home1" src="https://user-images.githubusercontent.com/118153981/214096509-2d9d43b7-6ef1-43a3-966d-58ae11691282.png">
+<img width="1067" alt="ab home2" src="https://user-images.githubusercontent.com/118153981/214096532-08c9d7a2-c263-41eb-b286-2bc2c6d8c8fa.png">
+<img width="1065" alt="ab home3" src="https://user-images.githubusercontent.com/118153981/214096553-3629a45e-3dc3-4a55-91fc-b7dd03a52d45.png">
+<img width="1067" alt="ab home4" src="https://user-images.githubusercontent.com/118153981/214096580-d0f9cf2b-0701-4aef-976c-e74c5dd364f4.png">
+<img width="1070" alt="homebot2" src="https://user-images.githubusercontent.com/118153981/214096789-c0f178bc-ddd0-44b4-8d4c-3d167f11b23a.png">
+<img width="1069" alt="homebot3" src="https://user-images.githubusercontent.com/118153981/214096820-7dacc689-d51d-44e4-acab-c3cb6236dd45.png">
 
-<img width="1069" alt="ab home1" src="https://user-images.githubusercontent.com/118153981/209985476-8e9c05cc-19a8-4281-ab15-6644245e9065.png">
-<img width="1066" alt="ab home2" src="https://user-images.githubusercontent.com/118153981/209985494-30a4d09b-24e0-46b7-8405-a593c34123ab.png">
-<img width="1067" alt="ab home3" src="https://user-images.githubusercontent.com/118153981/209985496-6659a538-6bf0-43c9-9a82-8ea25fe471ce.png">
-<img width="1069" alt="ab home4" src="https://user-images.githubusercontent.com/118153981/209985513-21bde536-a76a-4f3b-8099-57f45e279903.png">
+
 
 
 ##  HOME/service
