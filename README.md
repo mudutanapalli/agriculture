@@ -80,7 +80,8 @@ Project demo video URL: https://drive.google.com/drive/folders/1Ox0cz-me1oLWx9YM
 
 ## Zure resources
 
-<img width="1080" alt="ab azure" src="https://user-images.githubusercontent.com/118153981/209986173-55ebb8ec-7530-4603-9e86-991b94fe826d.png">
+<img width="1080" alt="ab azure" src="https://user-images.githubusercontent.com/118153981/214098667-36da2eec-aa67-4662-b2df-c2324196c673.png">
+
 
 
 
