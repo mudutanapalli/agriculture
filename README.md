@@ -78,7 +78,6 @@ Project demo video URL: https://drive.google.com/drive/folders/1Ox0cz-me1oLWx9YM
 
 
 <img width="1079" alt="ab bot1" src="https://user-images.githubusercontent.com/118153981/209986008-1e6fca14-d9d8-4cc6-95c8-f14886ce0f97.png">
-<img width="1076" alt="ab bot2" src="https://user-images.githubusercontent.com/118153981/209986016-6205a863-a085-43a0-a14f-4c114b0c9b62.png">
 
 ## Zure resources used 
 
